@@ -1,0 +1,13 @@
+<html>
+
+<head>
+<title>masterpiece</title>
+</head>
+<p> <img src="C:\Users\远道\Downloads\v2-bffbbf4ee3a7200501dea988bf35e0a1_b.jpg"></p>
+<body>
+<p>genshin</p>
+<p>the best game </p>
+<a href="https://ys.mihoyo.com/" target="_blank">Visit genshin!</a>
+</body>
+
+</html>
